@@ -1,11 +1,14 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #f0f0f0;
+  background-color: #0a7aa7;
 }
 
 .number {
-  background-color: lightblue;
+  background-color: rgb(69, 197, 240);
   text-align: center;
   border-radius: 10px;
   font-weight: bold;
+  margin: 12px;
+  padding: 28px;
+  border: gold 6px solid;
 }
